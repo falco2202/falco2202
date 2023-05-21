@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Giao</h1>
 - 📫 How to reach me **giaont2001@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
